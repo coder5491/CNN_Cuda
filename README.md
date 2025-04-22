@@ -1,1 +1,1 @@
-Python implementation of CNN from scatch using Numba(both CPU and GPU(CUDA))
+Python implementation of CNN from scratch using Numba(both CPU and GPU(CUDA))
